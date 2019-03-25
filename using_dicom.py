@@ -1,6 +1,6 @@
 import os
 
-directory = r"C:\Users\Ge-riz\Desktop\New folder"
+directory = r"C:\Users\Ge-riz\Desktop\New folder\DICOM"
 
 for root, dirs, files in os.walk(directory):
 	for file in files:
